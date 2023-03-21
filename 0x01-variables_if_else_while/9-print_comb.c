@@ -7,7 +7,8 @@
  */
 int main(void)
 {
-for(int x = 48; x <= 57; x++)
+int x;
+for(x = 48; x <= 57; x++)
 {
 putchar(x);
 if (x <= 56)
