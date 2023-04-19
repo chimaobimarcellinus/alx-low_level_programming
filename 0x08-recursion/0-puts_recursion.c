@@ -4,6 +4,8 @@
 /**
  * this funtion prints a string follow by a new line
  * _putchar - print string to console
+ * @s: pointer to the string to print
+ * return: void
  * _put_recursion - loop through a string iin order to print to console
  */
 void _puts_recursion(char *s)
